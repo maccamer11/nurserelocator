@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/nurse-relocater/static/css/main.06926e44.chunk.css",
-    "main.js": "/nurse-relocater/static/js/main.5e08f58b.chunk.js",
-    "main.js.map": "/nurse-relocater/static/js/main.5e08f58b.chunk.js.map",
-    "runtime-main.js": "/nurse-relocater/static/js/runtime-main.8dfebb43.js",
-    "runtime-main.js.map": "/nurse-relocater/static/js/runtime-main.8dfebb43.js.map",
-    "static/css/2.69121389.chunk.css": "/nurse-relocater/static/css/2.69121389.chunk.css",
-    "static/js/2.9f48ae7d.chunk.js": "/nurse-relocater/static/js/2.9f48ae7d.chunk.js",
-    "static/js/2.9f48ae7d.chunk.js.map": "/nurse-relocater/static/js/2.9f48ae7d.chunk.js.map",
-    "index.html": "/nurse-relocater/index.html",
-    "precache-manifest.03fcfae50943706d956977a9f39e2b7f.js": "/nurse-relocater/precache-manifest.03fcfae50943706d956977a9f39e2b7f.js",
-    "service-worker.js": "/nurse-relocater/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/nurse-relocater/static/css/2.69121389.chunk.css.map",
-    "static/css/main.06926e44.chunk.css.map": "/nurse-relocater/static/css/main.06926e44.chunk.css.map",
-    "static/js/2.9f48ae7d.chunk.js.LICENSE.txt": "/nurse-relocater/static/js/2.9f48ae7d.chunk.js.LICENSE.txt"
+    "main.css": "/nurse-relocator/static/css/main.06926e44.chunk.css",
+    "main.js": "/nurse-relocator/static/js/main.1d0c0000.chunk.js",
+    "main.js.map": "/nurse-relocator/static/js/main.1d0c0000.chunk.js.map",
+    "runtime-main.js": "/nurse-relocator/static/js/runtime-main.3b6805c2.js",
+    "runtime-main.js.map": "/nurse-relocator/static/js/runtime-main.3b6805c2.js.map",
+    "static/css/2.69121389.chunk.css": "/nurse-relocator/static/css/2.69121389.chunk.css",
+    "static/js/2.9f48ae7d.chunk.js": "/nurse-relocator/static/js/2.9f48ae7d.chunk.js",
+    "static/js/2.9f48ae7d.chunk.js.map": "/nurse-relocator/static/js/2.9f48ae7d.chunk.js.map",
+    "index.html": "/nurse-relocator/index.html",
+    "precache-manifest.e466d97528a2b441923c349729e2a3ca.js": "/nurse-relocator/precache-manifest.e466d97528a2b441923c349729e2a3ca.js",
+    "service-worker.js": "/nurse-relocator/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/nurse-relocator/static/css/2.69121389.chunk.css.map",
+    "static/css/main.06926e44.chunk.css.map": "/nurse-relocator/static/css/main.06926e44.chunk.css.map",
+    "static/js/2.9f48ae7d.chunk.js.LICENSE.txt": "/nurse-relocator/static/js/2.9f48ae7d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8dfebb43.js",
+    "static/js/runtime-main.3b6805c2.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.9f48ae7d.chunk.js",
     "static/css/main.06926e44.chunk.css",
-    "static/js/main.5e08f58b.chunk.js"
+    "static/js/main.1d0c0000.chunk.js"
   ]
 }
